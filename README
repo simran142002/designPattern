@@ -1,0 +1,65 @@
+# Project Title
+Design Patterns covered
+1. Abstract Factory
+2. Builder
+3. Factory
+4. Singleton
+5. Observer
+6. Iterator
+7. Flyweight
+8. Tempelate
+9. Proxy
+10. Memento
+11. Strategy
+12. Visitor
+13. State
+14. Decorator
+15. Command
+16. Composite
+17. Mediator
+18. Facade
+19. Interpreter
+20. Adapter
+21. Chain of Responsibility
+22. Prototype
+23. Bridge
+
+Design Patterns Covered so far
+1. Abstract Factory
+2. Builder
+3. Singleton
+4. Observer
+5. Iterator
+6. Flyweight
+
+To be covered
+1. Composite
+2. Mediator
+3. Memento
+4. Decorator
+5. Mediator
+6. Adapter
+7. Abstarct factory
+8. State
+9. Visitor
+10. Bridge
+11. Prototype
+
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+1. Run npm i
+2. cd src/design-pattern-name
+3. node design-pattern-name
+4. To transpile run : tsc fileName
+5. Run : node file_name
+
+```bash
+npm install my-project
